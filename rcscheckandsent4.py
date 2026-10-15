@@ -1120,7 +1120,7 @@ class BotState:
 bot_state = BotState()
 
 # Database configuration
-MONGODB_URI = "mongodb+srv://sikarwarvishal75_db_user:Gama%40123@cluster0.whqwih.mongodb.net/rcs?retryWrites=true&w=majority"
+MONGODB_URI = "mongodb+srv://jiteshpariharjp_db_user:iUsQZjaajTKl0CaY@rcs.byzeszd.mongodb.net/rcs?retryWrites=true&w=majority"
 DATABASE_NAME = "rcs"
 
 # Constants
